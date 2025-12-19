@@ -1,2 +1,2 @@
-# 我的 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoxiang781216&show_icons=true&include_all_commits=true&count_private=true&custom_title=Annual%20Patch%20Review%20%26%20Comment%20Stats&hide=stars,issues&custom_items=Patch%20Reviews:%20{pr_reviews},Comments:%20{issue_comments})
+# 个人统计
+{% include STATS.md %}
